@@ -90,6 +90,7 @@ section.home .about .right h2 {
     font-size: 3rem;
     text-align: center;
     margin-top: 2rem;
+    color: #000;
     font-family: 'Pacifico', cursive;
 }
 
@@ -151,7 +152,7 @@ section.home .about .right .social-links .iconify {
 
 /*portfolio*/
 section.portfolio {
-    position: relative;
+    position: relative
 }
 
 section.portfolio h2 {
@@ -159,6 +160,7 @@ section.portfolio h2 {
     font-size: 3rem;
     margin-top: 5rem;
     text-align: center;
+    color: #000;
 }
 
 section.portfolio .img-boxes {
